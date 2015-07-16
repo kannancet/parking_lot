@@ -1,0 +1,21 @@
+commit 9209a108850a5e7bafd322a3e5e83448da394309
+Author: kannancet <krxcet@gmail.com>
+Date:   Sat Jun 20 09:22:39 2015 +0530
+
+    1. Adding unit test cases for models ParkingLot and Vehcile
+    2. Adding base class test
+
+commit ae337d76067eaab80349771e059d1041b6e3a63b
+Author: kannancet <krxcet@gmail.com>
+Date:   Sat Jun 20 09:21:58 2015 +0530
+
+    1. Adding models and command execution
+    2. Added ParkingLot, Vehicle and ParkingHistory
+
+commit fa300957b47f9ce1ee20a9e8d40d0e4339da470b
+Author: kannancet <krxcet@gmail.com>
+Date:   Sat Jun 20 09:20:21 2015 +0530
+
+    1. Adding base class and skeleton for app.
+    2. Configure database and dependencies.
+    3. Specs for base class
